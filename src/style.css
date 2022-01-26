@@ -52,3 +52,21 @@ li::first-letter {
   cursor: default;
   text-decoration: none;
 }
+
+.weather-forecast {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.weather-forecast-day {
+  font-size: 15px;
+  color: #7ea098;
+}
+
+.weather-forecast-temperature {
+  font-size: 15px;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.6;
+}
